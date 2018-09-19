@@ -17,5 +17,7 @@ If you want to test the total result of the detection rate on the whole dataset,
 
 Comments provided.
 
+The .mat table data of all images is ready. Extract ReadyDatasetMatlabFile.rar file and place the 19-kk=20-final.met file into the root folder of the project. 
+
 Open Source Now.
 
