@@ -19,5 +19,7 @@ Comments provided.
 
 The .mat table data of all images is ready. Extract ReadyDatasetMatlabFile.rar file and place the 19-kk=20-final.met file into the root folder of the project. 
 
+Added CASIA dataset. Extract CA.rar, then put the CA folder in the root of the project.
+
 Open Source Now.
 
