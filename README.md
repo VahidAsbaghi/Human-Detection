@@ -15,5 +15,7 @@ If you want to plot a Gabor filter with specified parameters, you could use the 
 
 If you want to test the total result of the detection rate on the whole dataset, please use the down-left part. You should select four images out of all 7 images of each person to learn the classifier. The algorithm uses remained 3 images to determine the classification performance. After that, the results will be shown in provided textboxes.   
 
+Comments provided.
+
 Open Source Now.
 
